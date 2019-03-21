@@ -79,7 +79,7 @@ plain-credentials:1.5
 pubsub-light:1.12
 resource-disposer:0.12
 scm-api:2.3.0
-script-security:1.50
+script-security:1.53
 sse-gateway:1.17
 ssh-credentials:1.14
 structs:1.17
